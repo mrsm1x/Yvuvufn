@@ -1,4 +1,2 @@
-【U】INVALID【U】
-【U】DODIK【U】
-【U】ADMIN【U】
-【p】CONCENII【p】
+【U】user1【U】【p】pass1【p】
+【U】user2【U】【p】pass2【p】
